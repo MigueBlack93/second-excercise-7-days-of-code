@@ -1,8 +1,8 @@
-# first-excercise-7-days-of-code
+# second-excercise-7-days-of-code
  
 # Título del Proyecto
 
- Primer Ejercicio del evento #7DaysOfCode de Alura Latam con ONE.
+ Segundo Ejercicio del evento #7DaysOfCode de Alura Latam con ONE.
 
 ## Comenzando 🚀
 
